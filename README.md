@@ -1,7 +1,8 @@
 # ERC3525-marketplace
 
 ERC721＜＝＞ERC3525
-NFTの分割所有を、ERC3525を用いて、実現。
+
+#NFTの分割所有を、ERC3525を用いて、実現。
 
 ・
 
