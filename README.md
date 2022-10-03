@@ -15,5 +15,8 @@ expensive NFT => GameFi NFT
 on-chain-gameに特化した marketplaceを目指す？？
 
 
+参考
 https://magiceden-io.webpkgcache.com/doc/-/s/magiceden.io/marketplace/genopets_genotype_crystals
 
+
+あとは、Initial Bond Offeringとかも流行りそう。
