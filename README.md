@@ -20,3 +20,5 @@ https://magiceden-io.webpkgcache.com/doc/-/s/magiceden.io/marketplace/genopets_g
 
 
 あとは、Initial Bond Offeringとかも流行りそう。
+
+MagicEdenの着せ替えSFTや、SFT MarketPlaceの動きは参考になりそう。
